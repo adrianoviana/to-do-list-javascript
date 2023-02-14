@@ -1,0 +1,9 @@
+.list-element {
+    cursor: pointer;
+    width: min-content;
+  }
+  
+  .list-element:hover {
+    color: red;
+    text-decoration: line-through;
+  }
